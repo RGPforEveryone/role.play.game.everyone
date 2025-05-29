@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg-for-everyone/roadmap/"}
+{"dg-publish":true,"tags":null,"Джерело":null,"Автор":null,"Редактор":null,"permalink":"/rpg-for-everyone/roadmap/","dgPassFrontmatter":true}
 ---
 
 # Що треба зробити? (по пріоритетах)

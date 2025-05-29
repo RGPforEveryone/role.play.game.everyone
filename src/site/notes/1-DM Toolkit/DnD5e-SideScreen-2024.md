@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-dm-toolkit/dn-d5e-side-screen-2024/"}
+{"obsidianUIMode":"preview","dg-publish":true,"tags":null,"Джерело":null,"Автор":null,"Редактор":null,"permalink":"/1-dm-toolkit/dn-d5e-side-screen-2024/","dgPassFrontmatter":true}
 ---
 
 
