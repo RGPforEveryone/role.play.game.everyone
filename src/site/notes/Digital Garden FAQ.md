@@ -11,10 +11,11 @@
 
 | ![[gremishka.jpg\|200]]  | ![[gremishka.jpg \|200]]  | 
 | -------------------- | ---------------- | 
+<center> <img width=500 src="![gremishka.jpg](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)"> </center>
 
-![gremishka.jpg](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg) 
 
 <center> <img width=500 src="https://imgur.com/ZFElAHT.jpeg"> </center>
+<right> <img width=500 src="https://imgur.com/ZFElAHT.jpeg"> </right>
 
 ```
 <img src="dinosaur.jpg" />
