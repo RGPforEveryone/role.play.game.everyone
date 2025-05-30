@@ -17,9 +17,17 @@
 <center> <img width=500 src="https://imgur.com/ZFElAHT.jpeg"> </center>
 <right> <img width=500 src="https://imgur.com/ZFElAHT.jpeg"> </right>
 
-```
-<img src="dinosaur.jpg" />
-```
+
+​```cardlink
+url: https://obsidian.md/
+title: "Obsidian"
+description: "Obsidian: A knowledge base that works on local Markdown files."
+host: obsidian.md
+favicon: https://obsidian.md/favicon.ico
+image: https://obsidian.md/images/banner.png
+​```
+
+<font size=1> The code block style in my local vault is created using the Code Styler plugin. </font>
 < img
   src="[[gremishka.jpg]]"
   alt="The head and torso of a dinosaur skeleton;
