@@ -15,13 +15,13 @@
 ```
 <img src="dinosaur.jpg" />
 ```
-img
+< img
   src="[[gremishka.jpg]]"
   alt="The head and torso of a dinosaur skeleton;
           it has a large head with long sharp teeth"
   width="400"
   height="341" 
-
+/>
 
 
 [Найкращий спосіб додати dg-publish: true для сотень нотаток?](https://github.com/oleeskild/obsidian-digital-garden/discussions/238)
