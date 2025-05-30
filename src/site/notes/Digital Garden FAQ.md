@@ -6,16 +6,16 @@
 
 > [!cards|4]
 > **[[2-World/Regions/Island of Screams\|Island of Screams]]**
-> ![[The Island of Screams.jpg\|200]]
+> ![The Island of Screams.jpg|200](/img/user/z_Assets/The%20Island%20of%20Screams.jpg)
 > 
 > **[[1-DM Toolkit/Journey Board\|Journey Board]]**
 > [![[JourneyBoard.png\|sban htiny ctr]]](Journey%20Board)
 >
 > **[[2-World/Hubs/City of Trade\|City of Trade]]**
-> ![[AdventureIcon.png\|200]]
+> ![AdventureIcon.png|200](/img/user/z_Assets/Placeholder%20Images/AdventureIcon.png)
 > 
 > **[[1-Party/Example Party 1/Example Party 1\|Example Party 1]]**
-> ![[PartyLogo.jpg\|200]]
+> ![PartyLogo.jpg|200](/img/user/z_Assets/Placeholder%20Images/PartyLogo.jpg)
 
 
 
@@ -175,3 +175,33 @@ function setFrontmatter(file, fmfield, thing) {
 ВІДПОВІДАЛЬНІСТЬ, ЧИ ВИНИКЛА В ВИНІ ДІЇ ЗА ДОГОВОРОМ, ДЕЛІКТОМ ЧИ ІНШИМ ЧИНОМ, ЩО ВИНИКЛА ВНАСЛІДОК,
 ПОЗА АБО У ЗВ'ЯЗКУ З ПРОГРАМНИМ ЗАБЕЗПЕЧЕННЯМ АБО ВИКОРИСТАННЯМ ЧИ ІНШИМИ ДІЯМИ В
 ПРОГРАМНЕ ЗАБЕЗПЕЧЕННЯ.
+
+## Код
+
+**Мій підхід:**  
+у мене є папка «Вхідні» за замовчуванням для нових файлів (основна функція у розділі «Файли та посилання» → розташування за замовчуванням для нових нотаток → у вказаній папці).  
+Я налаштував шаблонизатор (який я все одно використовую) для застосування шаблону до кожної нової нотатки в цій папці.  
+Цей шаблон виглядає так:
+
+```typescript
+<%* let filetype = await tp.system.suggester(["Book Note", "Kanban Project", "Project Note", "Standard"], ["Book Note", "Kanban Project", "Project Note", "Standard"], false, "Which template do you want to use?") %>
+<%-* if (filetype === "Book Note") { %> 
+<% tp.file.include("[[Book Note Template]]") %> <% tp.file.move("/030 Media/031 Books/" + tp.file.title) %>
+<%-* } else if (filetype === "Kanban Project") { %>
+<% tp.file.include("[[Project Kanban]]") %> 
+<%-* } else if (filetype === "Project Note") { %>
+<% tp.file.include("[[Project Note Template]]") %>
+<%-* } else if (filetype === "Standard") { %>
+<% tp.file.include("[[New File Template]]") %>
+<%-* } else { %>
+<% tp.file.cursor(1) %>
+<%* } -%>
+```
+
+## Пояснення
+
+Щоразу, коли я створюю новий файл у папці "Вхідні" (=коли я натискаю посилання на неіснуючий файл), я отримую пропозицію з шаблонами, а потім створюється файл із зазначеним шаблоном.  
+Нотатка до книги навіть переміщується до зазначеної папки. Ви також можете додати це до інших шаблонів або скористатися плагіном " [auto file mover 62](https://github.com/farux/obsidian-auto-note-mover) ", який нещодавно вийшов.
+
+Звичайно, це все ще трохи складно, і вам потрібно налаштовувати це для кожного шаблону, який ви хочете використовувати, але поки що це працює для опції переходу за посиланням.  
+Сподіваюся, це трохи допомогло.
