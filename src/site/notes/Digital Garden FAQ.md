@@ -6,16 +6,16 @@
 
 > [!cards|4]
 > **[[2-World/Regions/Island of Screams\|Island of Screams]]**
-> ![[The Island of Screams.jpg\|sban htiny ctr]]
+> ![[The Island of Screams.jpg\|200]]
 > 
 > **[[1-DM Toolkit/Journey Board\|Journey Board]]**
 > [![[JourneyBoard.png\|sban htiny ctr]]](Journey%20Board)
 >
 > **[[2-World/Hubs/City of Trade\|City of Trade]]**
-> ![[AdventureIcon.png\|sban htiny ctr]]
+> ![[AdventureIcon.png\|200]]
 > 
 > **[[1-Party/Example Party 1/Example Party 1\|Example Party 1]]**
-> ![[PartyLogo.jpg\|sban htiny ctr p+t]]
+> ![[PartyLogo.jpg\|200]]
 
 
 
