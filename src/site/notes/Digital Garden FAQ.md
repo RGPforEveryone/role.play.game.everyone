@@ -77,3 +77,6 @@ function setFrontmatter(file, fmfield, thing) {
 [Автоматичне створення картки з посилання](https://github.com/nekoshita/obsidian-auto-card-link)
 
 Збереження та синхронізація обсидіан(https://imazingrace.vercel.app/Obsidian/Remotely%20Save/)
+
+книга рецептів, нотатки з книг(https://notebook.ddeepak95.com/cookbook/)
+
