@@ -15,7 +15,7 @@
 >>сам текст
 >>"</font>"
 >
-|![[myfilename.png\|200]]|
+![[myfilename.png\|200]]
 
 
 |![[gremishka.jpg\|200]]|![[gremishka.jpg\|200]]| 
