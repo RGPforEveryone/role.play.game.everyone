@@ -10,13 +10,13 @@
 >>:::
 
 
-<[[gremishka.jpg]] />
+![gremishka.jpg](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg) 
 
 ```
 <img src="dinosaur.jpg" />
 ```
 img
-  src="[[gremishka\|gremishka]]"
+  src="[[gremishka.jpg]]"
   alt="The head and torso of a dinosaur skeleton;
           it has a large head with long sharp teeth"
   width="400"
