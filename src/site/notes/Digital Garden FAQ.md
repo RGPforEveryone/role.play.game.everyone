@@ -14,8 +14,14 @@
 >>"<font size=1>"
 >>сам текст
 >>"</font>"
->
-![[myfilename.png\|right]]
+
+
+![gremishka.jpg|right|200](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)
+
+
+
+
+
 
 
 |![[gremishka.jpg\|200]]|![[gremishka.jpg\|200]]| 
