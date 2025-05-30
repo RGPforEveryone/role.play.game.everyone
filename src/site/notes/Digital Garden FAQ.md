@@ -15,11 +15,13 @@
 >>сам текст
 >>"</font>"
 >
-![[myfilename.png\|200]]
+![[myfilename.png\|right]]
 
 
 |![[gremishka.jpg\|200]]|![[gremishka.jpg\|200]]| 
 | -------------------- | ---------------- | 
+
+
 <center> <img width=500 src="![gremishka.jpg](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)"> </center>
 
 
@@ -38,6 +40,14 @@ image: https://obsidian.md/images/banner.png
 
 <font size=1> The code block style in my local vault is created using the Code Styler plugin. </font>
 
+Приклад кнопки по центру
+<div style="display: flex; justify-content: center; cursor: pointer;">
+	<a href="https://github.com/oleeskild/obsidian-digital-garden/issues/55" target="_blank">
+		<button style=" font-size: 24px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); cursor: pointer; ">
+			Submit your site
+		</button>
+	</a>
+</div>
 
 
 [Найкращий спосіб додати dg-publish: true для сотень нотаток?](https://github.com/oleeskild/obsidian-digital-garden/discussions/238)
@@ -80,3 +90,37 @@ function setFrontmatter(file, fmfield, thing) {
 
 книга рецептів, нотатки з книг(https://notebook.ddeepak95.com/cookbook/)
 
+Як вбудувати розсилку на сайт(https://www.emhabayu.com/notes/how-to-embed-newsletter-on-obsidian/)
+
+Альтернативні комантарі(https://utteranc.es/?ref=obsidian-gallery.craftengineer.com)
+
+Альтернативний веб сад(https://quartz.jzhao.xyz/)
+Приклад сайту на Quartz v4.5.0(https://neovoid.is-cool.dev/quartz/)
+
+Ідея для футера
+![Pasted image 20250530205328.png](/img/user/z_Assets/Pasted%20image%2020250530205328.png)
+
+блог фотографа(https://cave.niallbell.com/?ref=obsidian-gallery.craftengineer.com)
+
+цифровий сад edav. Таблиці html, анімація на головній сторінці(https://edav-garden.netlify.app/area/)
+
+Перемикач теми, рандомна нотатка, надіслати електронни лист(https://www.nonlinear.top/A0-%20%E5%85%B3%E4%BA%8E%E8%AF%A5%E7%BD%91%E7%AB%99/%E5%85%B3%E4%BA%8E%E8%AF%A5%E7%BD%91%E7%AB%99/) на GitHub(https://github.com/UNLINEARITY/Atlas-of-Control-and-AI)
+
+Алекс Райнхарт — письменник, оповідач та розробник рольових ігор(https://garden.alexrinehart.net/about-me/about-me/)
+Ліцензія MIT
+Авторське право (c) 2024 нелінійність
+Дозвіл надається безкоштовно будь-якій особі, яка отримує копію
+цього програмного забезпечення та пов'язаних з ним файлів документації («Програмне забезпечення»), для вирішення
+у Програмному забезпеченні без обмежень, включаючи, без обмежень, права
+використовувати, копіювати, змінювати, об'єднувати, публікувати, розповсюджувати, субліцензувати та/або продавати
+копії Програмного забезпечення, а також дозволяти особам, яким надається Програмне забезпечення
+надані для цього, за таких умов:
+Вищезазначене повідомлення про авторські права та це повідомлення про дозвіл мають бути включені до всіх
+копії або суттєві частини Програмного забезпечення.
+ПРОГРАМНЕ ЗАБЕЗПЕЧЕННЯ НАДАЄТЬСЯ "ЯК Є", БЕЗ БУДЬ-ЯКИХ ГАРАНТІЙ, ЯВНИХ АБО
+НЕЯВНІ, ВКЛЮЧАЮЧИ, АЛЕ НЕ ОБМЕЖУЮЧИСЬ, ГАРАНТІЇ ТОВАРНОЇ ПРИДАТНОСТІ,
+ПРИДАТНІСТЬ ДЛЯ ПЕВНОЇ МЕТИ ТА НЕПОРУШЕННЯ ПРАВ. ЗА ЖОДНИХ ОБСТАВИН
+АВТОРИ АБО ВЛАСНИКИ АВТОРСЬКИХ ПРАВ НЕ НЕСУТЬ ВІДПОВІДАЛЬНОСТІ ЗА БУДЬ-ЯКІ ПРЕТЕНЗІЇ, ЗБИТКИ АБО ІНШІ
+ВІДПОВІДАЛЬНІСТЬ, ЧИ ВИНИКЛА В ВИНІ ДІЇ ЗА ДОГОВОРОМ, ДЕЛІКТОМ ЧИ ІНШИМ ЧИНОМ, ЩО ВИНИКЛА ВНАСЛІДОК,
+ПОЗА АБО У ЗВ'ЯЗКУ З ПРОГРАМНИМ ЗАБЕЗПЕЧЕННЯМ АБО ВИКОРИСТАННЯМ ЧИ ІНШИМИ ДІЯМИ В
+ПРОГРАМНЕ ЗАБЕЗПЕЧЕННЯ.
