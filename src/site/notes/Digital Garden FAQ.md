@@ -4,12 +4,21 @@
 
 
 
->прихований текст без кавичок(нотатки для редактора, які не попадуть на сайт.)
+>прихований текст - писати без кавичок(нотатки для редактора, які не попадуть на сайт.)
 >>":::hidden"
 >>сам текст
 >>:::
 
-| ![[gremishka.jpg\|200]]  | ![[gremishka.jpg \|200]]  | 
+
+>зменшений текст - писати без кавичок
+>>"<font size=1>"
+>>сам текст
+>>"</font>"
+>
+|![[myfilename.png\|200]]|
+
+
+|![[gremishka.jpg\|200]]|![[gremishka.jpg\|200]]| 
 | -------------------- | ---------------- | 
 <center> <img width=500 src="![gremishka.jpg](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)"> </center>
 
@@ -28,13 +37,7 @@ image: https://obsidian.md/images/banner.png
 ​```
 
 <font size=1> The code block style in my local vault is created using the Code Styler plugin. </font>
-< img
-  src="[[gremishka.jpg]]"
-  alt="The head and torso of a dinosaur skeleton;
-          it has a large head with long sharp teeth"
-  width="400"
-  height="341" 
-/>
+
 
 
 [Найкращий спосіб додати dg-publish: true для сотень нотаток?](https://github.com/oleeskild/obsidian-digital-garden/discussions/238)
@@ -70,4 +73,7 @@ function setFrontmatter(file, fmfield, thing) {
  [приклад сайту: topobon](https://topobon.utsob.me/). 
  [приклад реалізації коду на git](https://github.com/uroybd/topobon/tree/main/src/site/_includes/components/user)
  [Інший приклад коментарів](https://koeberlin.netlify.app/)
- 
+
+[Автоматичне створення картки з посилання](https://github.com/nekoshita/obsidian-auto-card-link)
+
+Збереження та синхронізація обсидіан(https://imazingrace.vercel.app/Obsidian/Remotely%20Save/)
