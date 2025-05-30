@@ -9,6 +9,8 @@
 >>сам текст
 >>:::
 
+| ![[gremishka.jpg\|200]]  | ![[gremishka.jpg \|200]]  | 
+| -------------------- | ---------------- | 
 
 ![gremishka.jpg](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg) 
 
