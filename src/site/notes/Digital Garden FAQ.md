@@ -14,6 +14,8 @@
 
 ![gremishka.jpg](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg) 
 
+<center> <img width=500 src="https://imgur.com/ZFElAHT.jpeg"> </center>
+
 ```
 <img src="dinosaur.jpg" />
 ```
@@ -58,4 +60,5 @@ function setFrontmatter(file, fmfield, thing) {
 Як додати коментарі на сайт за допомогою disqus
  [приклад сайту: topobon](https://topobon.utsob.me/). 
  [приклад реалізації коду на git](https://github.com/uroybd/topobon/tree/main/src/site/_includes/components/user)
+ [Інший приклад коментарів](https://koeberlin.netlify.app/)
  
