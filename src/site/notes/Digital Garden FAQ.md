@@ -36,6 +36,16 @@
 ПОЗА АБО У ЗВ'ЯЗКУ З ПРОГРАМНИМ ЗАБЕЗПЕЧЕННЯМ АБО ВИКОРИСТАННЯМ ЧИ ІНШИМИ ДІЯМИ В
 ПРОГРАМНЕ ЗАБЕЗПЕЧЕННЯ.
 
+<div class="book-covers">
+
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/mNzZCwAAQBAJ?fife=w600-h900&source=gbs_api)
+- ![cover](https://standardebooks.org/ebooks/charles-dickens/a-tale-of-two-cities/downloads/thumbnail_e7100f2595c474ea5c996db1f72fc4bd94dac8dd_EBOK_portrait.jpg)
+- ![cover](https://books.google.com/books/publisher/content/images/frontcover/gS9GEAAAQBAJ?fife=w600-h900&source=gbs_api)
+
+{ .block-language-dataview}
+
+</div>
+
 
 
 
