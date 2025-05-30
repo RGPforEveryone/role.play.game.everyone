@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"Джерело":null,"Автор":null,"Редактор":null,"permalink":"/roadmap/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/roadmap/"}
 ---
 
 # Що треба зробити? (по пріоритетах)

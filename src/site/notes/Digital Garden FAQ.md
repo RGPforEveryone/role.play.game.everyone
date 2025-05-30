@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"dg-hide-in-graph":true,"tags":null,"permalink":"/digital-garden-faq/","hide":true,"hideInGraph":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/digital-garden-faq/","hide":true,"hideInGraph":true}
 ---
 
 
@@ -10,15 +10,15 @@
 >>:::
 
 
-<[[gremishka\|gremishka]] />
+[[gremishka\|gremishka]] 
 
 
-<img
+img
   src="[[gremishka\|gremishka]]"
   alt="The head and torso of a dinosaur skeleton;
           it has a large head with long sharp teeth"
   width="400"
-  height="341" />
+  height="341" 
 
 
 

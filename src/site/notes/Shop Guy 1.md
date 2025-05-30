@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"dg-hide-in-graph":true,"tags":null,"permalink":"/shop-guy-1/","hide":true,"hideInGraph":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/shop-guy-1/","hide":true,"hideInGraph":true}
 ---
 
 
