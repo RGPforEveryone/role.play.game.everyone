@@ -3,3 +3,4 @@
 ---
 
 [[Shop Guy 1\|Shop Guy 1]]
+[[Digital Garden FAQ\|Digital Garden FAQ]]
