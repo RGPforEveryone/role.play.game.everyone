@@ -10,9 +10,11 @@
 >>:::
 
 
-[[gremishka\|gremishka]] 
+<[[gremishka.jpg]] />
 
-
+```
+<img src="dinosaur.jpg" />
+```
 img
   src="[[gremishka\|gremishka]]"
   alt="The head and torso of a dinosaur skeleton;
