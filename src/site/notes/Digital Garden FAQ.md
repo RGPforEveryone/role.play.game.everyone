@@ -4,6 +4,23 @@
 
 
 
+> [!cards|4]
+> **[[2-World/Regions/Island of Screams\|Island of Screams]]**
+> ![[The Island of Screams.jpg\|sban htiny ctr]]
+> 
+> **[[1-DM Toolkit/Journey Board\|Journey Board]]**
+> [![[JourneyBoard.png\|sban htiny ctr]]](Journey%20Board)
+>
+> **[[2-World/Hubs/City of Trade\|City of Trade]]**
+> ![[AdventureIcon.png\|sban htiny ctr]]
+> 
+> **[[1-Party/Example Party 1/Example Party 1\|Example Party 1]]**
+> ![[PartyLogo.jpg\|sban htiny ctr p+t]]
+
+
+
+
+
 >прихований текст - писати без кавичок(нотатки для редактора, які не попадуть на сайт.)
 >>":::hidden"
 >>сам текст
@@ -35,6 +52,7 @@
 ВІДПОВІДАЛЬНІСТЬ, ЧИ ВИНИКЛА В ВИНІ ДІЇ ЗА ДОГОВОРОМ, ДЕЛІКТОМ ЧИ ІНШИМ ЧИНОМ, ЩО ВИНИКЛА ВНАСЛІДОК,
 ПОЗА АБО У ЗВ'ЯЗКУ З ПРОГРАМНИМ ЗАБЕЗПЕЧЕННЯМ АБО ВИКОРИСТАННЯМ ЧИ ІНШИМИ ДІЯМИ В
 ПРОГРАМНЕ ЗАБЕЗПЕЧЕННЯ.
+```
 
 <div class="book-covers">
 
@@ -46,6 +64,7 @@
 
 </div>
 
+```
 
 
 
