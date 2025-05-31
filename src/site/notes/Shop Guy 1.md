@@ -8,7 +8,7 @@
 
 > [!column|no-i no-t]
 >> [!div-m|no-title]
->> ![Pasted image 20250427102611.png](/img/user/z_Assets/Pasted%20image%2020250427102611.png)
+>> ![gremishka.jpg|250](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)
 >
 >> [!div-m|no-title] Place Name
 >> ~~~meta-bind
