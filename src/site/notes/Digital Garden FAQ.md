@@ -181,6 +181,14 @@ image: https://obsidian.md/images/banner.png
 
 як змінити доменне ім'я(https://ericliaointerpreting.com/netlify-with-go-daddy-domain-name/)
 
+Додайте медіафайли до цифрового саду або обсидіанової нотатки(https://wisdump.work/blog-management/digital-garden-management/add-media-to-a-digital-garden-or-obsidian-note/)
+
+Захист вашої особистості та домену за допомогою безпеки електронної пошти(https://wisdump.work/blog-management/digital-garden-management/protecting-your-identity-and-your-domain-with-email-security/)
+
+Вкладені впорядковані списки в цифрових садах(https://wisdump.work/blog-management/digital-garden-management/nested-ordered-lists-in-digital-gardens/)
+
+
+
 # Клас розташування картинок в рядок
 
 ```
