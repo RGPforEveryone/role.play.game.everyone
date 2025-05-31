@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-garden-faq/","hide":true,"hideInGraph":true}
 ---
 
-
+$:/images/icons/vimeo
 
 > [!cards|4]
 > **[[2-World/Regions/Island of Screams\|Island of Screams]]**
@@ -333,3 +333,4 @@ function setFrontmatter(file, fmfield, thing) {
 }
 -%>
 ```
+
