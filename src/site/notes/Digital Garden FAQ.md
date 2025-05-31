@@ -19,6 +19,15 @@
 
 
 
+> [!cards|3]
+> **[[2-World/Regions/Island of Screams\|Island of Screams]]**
+> ![gremishka.jpg|200](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)
+>
+> **[[2-World/Hubs/City of Trade\|City of Trade]]**
+>![gremishka.jpg|200](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)
+> 
+> **[[1-Party/Example Party 1/Example Party 1\|Example Party 1]]**
+> ![gremishka.jpg|200](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)
 
 
 >прихований текст - писати без кавичок(нотатки для редактора, які не попадуть на сайт.)
@@ -137,27 +146,27 @@ function setFrontmatter(file, fmfield, thing) {
 
 [Автоматичне створення картки з посилання](https://github.com/nekoshita/obsidian-auto-card-link)
 
-Збереження та синхронізація обсидіан(https://imazingrace.vercel.app/Obsidian/Remotely%20Save/)
+[Збереження та синхронізація обсидіан](https://imazingrace.vercel.app/Obsidian/Remotely%20Save/)
 
-книга рецептів, нотатки з книг(https://notebook.ddeepak95.com/cookbook/)
+[книга рецептів, нотатки з книг](https://notebook.ddeepak95.com/cookbook/)
 
-Як вбудувати розсилку на сайт(https://www.emhabayu.com/notes/how-to-embed-newsletter-on-obsidian/)
+[Як вбудувати розсилку на сайт](https://www.emhabayu.com/notes/how-to-embed-newsletter-on-obsidian/)
 
-Альтернативні комантарі(https://utteranc.es/?ref=obsidian-gallery.craftengineer.com)
+[Альтернативні комантар]і(https://utteranc.es/?ref=obsidian-gallery.craftengineer.com)
 
-Альтернативний веб сад(https://quartz.jzhao.xyz/)
-Приклад сайту на Quartz v4.5.0(https://neovoid.is-cool.dev/quartz/)
+[Альтернативний веб сад](https://quartz.jzhao.xyz/)
+[Приклад сайту на Quartz v4.5.0](https://neovoid.is-cool.dev/quartz/)
 
 Ідея для футера
 ![Pasted image 20250530205328.png](/img/user/z_Assets/Pasted%20image%2020250530205328.png)
 
-блог фотографа(https://cave.niallbell.com/?ref=obsidian-gallery.craftengineer.com)
+[блог фотографа](https://cave.niallbell.com/?ref=obsidian-gallery.craftengineer.com)
 
-цифровий сад edav. Таблиці html, анімація на головній сторінці(https://edav-garden.netlify.app/area/)
+[цифровий сад edav. Таблиці html, анімація на головній сторінці](https://edav-garden.netlify.app/area/)
 
-Перемикач теми, рандомна нотатка, надіслати електронни лист(https://www.nonlinear.top/A0-%20%E5%85%B3%E4%BA%8E%E8%AF%A5%E7%BD%91%E7%AB%99/%E5%85%B3%E4%BA%8E%E8%AF%A5%E7%BD%91%E7%AB%99/) на GitHub(https://github.com/UNLINEARITY/Atlas-of-Control-and-AI)
+[Перемикач теми, рандомна нотатка, надіслати електронни лист](https://www.nonlinear.top/A0-%20%E5%85%B3%E4%BA%8E%E8%AF%A5%E7%BD%91%E7%AB%99/%E5%85%B3%E4%BA%8E%E8%AF%A5%E7%BD%91%E7%AB%99/) на GitHub(https://github.com/UNLINEARITY/Atlas-of-Control-and-AI)
 
-Алекс Райнхарт — письменник, оповідач та розробник рольових ігор(https://garden.alexrinehart.net/about-me/about-me/)
+[Алекс Райнхарт — письменник, оповідач та розробник рольових ігор](https://garden.alexrinehart.net/about-me/about-me/)
 Ліцензія MIT
 Авторське право (c) 2024 нелінійність
 Дозвіл надається безкоштовно будь-якій особі, яка отримує копію
@@ -205,3 +214,60 @@ function setFrontmatter(file, fmfield, thing) {
 
 Звичайно, це все ще трохи складно, і вам потрібно налаштовувати це для кожного шаблону, який ви хочете використовувати, але поки що це працює для опції переходу за посиланням.  
 Сподіваюся, це трохи допомогло.
+
+[приклад з сайту текст + зображення](https://www.yourpulse.cc/)
+
+[сайт для безпечного пошуку ДМів платно](https://startplaying.games/)
+сайт для створення кампейну(https://www.worldanvil.com/)
+перенесення кампейну WorldAnvil в нотатки(https://github.com/magejosh/WorldAnvil-to-MD?tab=readme-ov-file)
+magejosh(https://github.com/magejosh?page=1&tab=repositories)
+
+```
+<div class="w-full text-center md:text-left md:flex md:flex-row md:items-center">
+
+    <div class="md:w-1/2"><h3 class="text-4xl font-bold mb-4">
+
+     <font style="vertical-align: inherit;">
+
+        <font style="vertical-align: inherit;">
+
+        Про нас
+
+        </font>
+
+        </font>
+
+    </h3>
+
+    <p class="mb-4">
+
+<font style="vertical-align: inherit;">
+
+<font style="vertical-align: inherit;">
+
+У YourPulse ми вважаємо, що ваші нотатки є відображенням вашого унікального процесу мислення та інтелектуальної подорожі. Як користувачі Obsidian, ми усвідомили потребу в інструменті, який міг би оживити наші сховища, демонструючи багатство знань та творчості, що містяться в них.</font></font></p><p class="mb-4"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ми створили YourPulse, щоб надати таким користувачам Obsidian, як ви, можливість побачити весь потенціал вашого цифрового розуму.
+
+</font>
+
+</font>
+
+</strong>
+
+</p>
+
+</div>
+
+<div class="mt-6 md:mt-0 md:ml-6 md:w-1/2 p-4">
+
+<img alt="Мем про плагіни" loading="lazy" width="400" height="300" decoding="async" data-nimg="1"
+
+class="rounded-lg" style="color:transparent" srcset="/_next/image?url=%2Fplugins-list.jpg%3Fheight%3D300%26width%3D400&amp;w=640&amp;q=75 1x,
+
+/_next/image?url=%2Fplugins-list.jpg%3Fheight%3D300%26width%3D400&amp;w=828&amp;q=75 2x"
+
+src="/_next/image?url=%2Fplugins-list.jpg%3Fheight%3D300%26width%3D400&amp;w=828&amp;q=75">
+
+</div>
+
+</div>
+```
