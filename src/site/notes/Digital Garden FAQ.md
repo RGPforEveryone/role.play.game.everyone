@@ -4,7 +4,7 @@
 
 $:/images/icons/vimeo
 
-фів
+[[фів\|фів]]
 
 > [!cards|4]
 > **[[2-World/Regions/Island of Screams\|Island of Screams]]**
