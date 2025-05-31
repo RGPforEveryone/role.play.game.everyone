@@ -119,12 +119,8 @@ dv.paragraph(
 > розмістити зображення по центру, з посилання
 >> <center> <img width=500 src="https:посилання вставити сюди"> </center>
 
-![gremishka.jpg|right|200](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)
-
-
-<center> <img width=500 src="![gremishka.jpg](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)"> </center>
-
-
+> розмістити текст або посилання по центру
+>>  <center> <a href="https://obsidian-space-delta.vercel.app/">atan's OuOb Space!</a> </center>
 
 
 ​```cardlink
@@ -139,59 +135,52 @@ image: https://obsidian.md/images/banner.png
 
 
 
-
-[Додавання каталогів/папок для користувацьких компонентів](https://github.com/oleeskild/obsidian-digital-garden/discussions/577)
-
-[Альтернативні прапорці з теми minimal за допомогою userSetup.js](https://github.com/oleeskild/obsidian-digital-garden/discussions/576)
-
-[Перемикач тем на сайті](https://github.com/oleeskild/obsidian-digital-garden/discussions/688)
-
+# Коментарі та реакції
 Як додати коментарі на сайт за допомогою disqus
+інструція (https://ericliaointerpreting.com/obsidian-digital-garden-plugin-netlify/)
  [приклад сайту: topobon](https://topobon.utsob.me/). 
  [приклад реалізації коду на git](https://github.com/uroybd/topobon/tree/main/src/site/_includes/components/user)
- [Інший приклад коментарів](https://koeberlin.netlify.app/)
-
-[Автоматичне створення картки з посилання](https://github.com/nekoshita/obsidian-auto-card-link)
-
-[Збереження та синхронізація обсидіан](https://imazingrace.vercel.app/Obsidian/Remotely%20Save/)
-
-[книга рецептів, нотатки з книг](https://notebook.ddeepak95.com/cookbook/)
-
-[Як вбудувати розсилку на сайт](https://www.emhabayu.com/notes/how-to-embed-newsletter-on-obsidian/)
 
 [Альтернативні комантар]і(https://utteranc.es/?ref=obsidian-gallery.craftengineer.com)
+[utteranc.es](https://utteranc.es/)
 
-[Альтернативний веб сад](https://quartz.jzhao.xyz/)
-[Приклад сайту на Quartz v4.5.0](https://neovoid.is-cool.dev/quartz/)
+альтернативні коментарі   (https://www.yarden-zamir.com/docs/readme/)
+[giscus](https://giscus.app/)
 
-Ідея для футера
-![Pasted image 20250530205328.png](/img/user/z_Assets/Pasted%20image%2020250530205328.png)
-
-[блог фотографа](https://cave.niallbell.com/?ref=obsidian-gallery.craftengineer.com)
-
-[цифровий сад edav. Таблиці html, анімація на головній сторінці](https://edav-garden.netlify.app/area/)
-
-[Перемикач теми, рандомна нотатка, надіслати електронни лист](https://www.nonlinear.top/A0-%20%E5%85%B3%E4%BA%8E%E8%AF%A5%E7%BD%91%E7%AB%99/%E5%85%B3%E4%BA%8E%E8%AF%A5%E7%BD%91%E7%AB%99/) на GitHub(https://github.com/UNLINEARITY/Atlas-of-Control-and-AI)
-
-[Алекс Райнхарт — письменник, оповідач та розробник рольових ігор](https://garden.alexrinehart.net/about-me/about-me/)
-
-[приклад з сайту текст + зображення](https://www.yourpulse.cc/)
-
-[сайт для безпечного пошуку ДМів платно](https://startplaying.games/)
-сайт для створення кампейну(https://www.worldanvil.com/)
-перенесення кампейну WorldAnvil в нотатки(https://github.com/magejosh/WorldAnvil-to-MD?tab=readme-ov-file)
-magejosh(https://github.com/magejosh?page=1&tab=repositories)
+ [Інший приклад коментарів](https://koeberlin.netlify.app/)
+ гітхаб
 
 Реакція + коментарі, банери знизу сайта (https://www.aizatto.com/personal-goals)
 гітхаб (https://github.com/aizatto/gitbook-public?tab=readme-ov-file)
 ![Pasted image 20250531131429.png](/img/user/z_Assets/Pasted%20image%2020250531131429.png)
 ![Pasted image 20250531131459.png](/img/user/z_Assets/Pasted%20image%2020250531131459.png)
+
+# Розсилка (підписка), перемикач тем
+[Як вбудувати розсилку (підписку) на сайт](https://www.emhabayu.com/notes/how-to-embed-newsletter-on-obsidian/)
+
+[Перемикач теми, рандомна нотатка, надіслати електронни лист](https://www.nonlinear.top/A0-%20%E5%85%B3%E4%BA%8E%E8%AF%A5%E7%BD%91%E7%AB%99/%E5%85%B3%E4%BA%8E%E8%AF%A5%E7%BD%91%E7%AB%99/) на GitHub(https://github.com/UNLINEARITY/Atlas-of-Control-and-AI)
+
+[Перемикач тем на сайті](https://github.com/oleeskild/obsidian-digital-garden/discussions/688)
+
+
+# додаткові гайди та приклади
+[Додавання каталогів/папок для користувацьких компонентів](https://github.com/oleeskild/obsidian-digital-garden/discussions/577)
+
+[Альтернативні прапорці з теми minimal за допомогою userSetup.js](https://github.com/oleeskild/obsidian-digital-garden/discussions/576)
+
+[Автоматичне створення картки з посилання](https://github.com/nekoshita/obsidian-auto-card-link)
+
+Ідея для футера
+![Pasted image 20250530205328.png](/img/user/z_Assets/Pasted%20image%2020250530205328.png)
+
+[цифровий сад edav. Таблиці html, анімація на головній сторінці](https://edav-garden.netlify.app/area/)
+
 Гарне оформлення + повернення на верх сторінки https://lyz-code.github.io/blue-book/galego/
 гітхаб
 ![Pasted image 20250531131735.png](/img/user/z_Assets/Pasted%20image%2020250531131735.png)
 
-альтернативні коментарі  (https://www.yarden-zamir.com/docs/readme/)
-[giscus](https://giscus.app/)
+як змінити доменне ім'я(https://ericliaointerpreting.com/netlify-with-go-daddy-domain-name/)
+
 # Клас розташування картинок в рядок
 
 ```
@@ -260,6 +249,8 @@ magejosh(https://github.com/magejosh?page=1&tab=repositories)
 
 
 # Приклад коду з зображенням збоку від тексту
+
+[приклад з сайту текст + зображення](https://www.yourpulse.cc/)
 
 ```
 <div class="w-full text-center md:text-left md:flex md:flex-row md:items-center">
