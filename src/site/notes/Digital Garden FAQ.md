@@ -21,13 +21,13 @@
 
 > [!cards|3]
 > **[[2-World/Regions/Island of Screams\|Island of Screams]]**
-> ![gremishka.jpg|200](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)
+> ![gremishka.jpg|250](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)
 >
 > **[[2-World/Hubs/City of Trade\|City of Trade]]**
->![gremishka.jpg|200](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)
+>![gremishka.jpg|250](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)
 > 
 > **[[1-Party/Example Party 1/Example Party 1\|Example Party 1]]**
-> ![gremishka.jpg|200](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)
+> ![gremishka.jpg|250](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)
 
 
 >прихований текст - писати без кавичок(нотатки для редактора, які не попадуть на сайт.)
