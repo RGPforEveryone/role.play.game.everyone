@@ -29,6 +29,79 @@
 > **[[1-Party/Example Party 1/Example Party 1\|Example Party 1]]**
 > ![gremishka.jpg|250](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)
 
+---
+type: beerCard
+Rating: 9
+ABV: 6.5%
+Cost: £
+Producer: Pressure Drop
+Type: Porter
+Bought-From: "[[Beer and Burger\|Beer and Burger]]"
+Tasting-Notes: "Great porter, really balanced flavour, not to sweet and can taste the coffee and chocolate. Really easy drinker. Would definitely get again"
+Image: "[[gremishka.jpg]]"
+Description: "Roasty, Coffee Chocolate"
+---
+
+Tags: #products/beer 
+
+``` dataviewjs
+// Nicely Render all the inlinks to the current note on a single line
+// Checks if an alias exists for inlinks and will render the alias
+// if it exists
+//
+let myInlinks = [];
+for (let inlink of dv.current().file.inlinks){
+	let inlinkFile = dv.page(inlink.path).file
+	let displayName = inlinkFile.aliases ? inlinkFile.aliases[0] : inlinkFile.name
+	let fileLink = dv.fileLink(inlinkFile.path, false, displayName)
+	myInlinks.push(fileLink)
+}
+let myInlinksStr = `**Inlinks**: ${myInlinks.join(', ')}`
+dv.paragraph(myInlinksStr)
+```
+**Oulinks**: [[_MOC Products\|Products]], [[Beer Tasting Notes\|Beer Tasting Notes]]
+
+# Fashion Porter
+
+``` dataviewjs
+let page = dv.current();
+dv.paragraph(
+	"**Description** " + page.Description
+)
+```
+
+![gremishka.jpg|left|250](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)
+``` dataviewjs
+let page = dv.current();
+
+dv.paragraph(
+	"**Rating:** " + page.Rating + "\n"
+	+ "**ABV:** " + page.ABV + "\n"
+	+ "**Cost:** " + page.Cost + "\n"
+	+ "**Type:** " + page.Type + "\n"
+	+ "**Producer:** " + page.Producer + "\n"
+	+ "**Bought From**: " + page["Bought-From"] + "\n"
+	+ "**Tasting Notes**: " + page["Tasting-Notes"]
+)
+```
+
+
+![gremishka.jpg|left|250](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)
+``` dataviewjs
+let page = dv.current();
+
+dv.paragraph(
+	"**Rating:** " + page.Rating + "\n"
+	+ "**ABV:** " + page.ABV + "\n"
+	+ "**Cost:** " + page.Cost + "\n"
+	+ "**Type:** " + page.Type + "\n"
+	+ "**Producer:** " + page.Producer + "\n"
+	+ "**Bought From**: " + page["Bought-From"] + "\n"
+	+ "**Tasting Notes**: " + page["Tasting-Notes"]
+)
+```
+
+
 
 >прихований текст - писати без кавичок(нотатки для редактора, які не попадуть на сайт.)
 >>":::hidden"
