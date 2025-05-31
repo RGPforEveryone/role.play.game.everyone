@@ -2,9 +2,11 @@
 {"dg-publish":true,"permalink":"/digital-garden-faq/","hide":true,"hideInGraph":true}
 ---
 
-$:/images/icons/vimeo
 
-[[фів\|фів]]
+Вбудований файл пдф:
+<iframe src="https://drive.google.com/file/d/1PacJp3YdhrNR9wzc5ylpH6nkcmLvHjVM/preview" width="100%" height="480" allow="autoplay" aspect-ratio="4 / 4" overflow="hidden" position="absolute" scrolling="no"> </iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AwRSTH72MYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > [!cards|4]
 > **[[2-World/Regions/Island of Screams\|Island of Screams]]**
@@ -18,7 +20,6 @@ $:/images/icons/vimeo
 > 
 > **[[1-Party/Example Party 1/Example Party 1\|Example Party 1]]**
 > ![PartyLogo.jpg|200](/img/user/z_Assets/Placeholder%20Images/PartyLogo.jpg)
-
 
 
 > [!cards|3]
