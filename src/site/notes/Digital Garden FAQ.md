@@ -21,6 +21,23 @@
 > **[[1-Party/Example Party 1/Example Party 1\|Example Party 1]]**
 > ![PartyLogo.jpg|200](/img/user/z_Assets/Placeholder%20Images/PartyLogo.jpg)
 
+> [!infobox]+
+> # Гремішка
+> ![gremishka.jpg|300](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)
+> ###### Соцмережі
+> ###### [Telegram](https://t.me/gremishkaua)
+> ###### [BlueSky](https://bsky.app/profile/gremishka.bsky.social)
+> ###### [Instagram](https://www.instagram.com/gremyshkaua/)
+
+> [!infobox]+
+> Type |  Stat |
+> ---|---|
+> Telegram | Testing |
+> Test | Testing |
+> Test | Testing |
+> Test | Testing |
+
+
 
 > [!cards|3]
 > **[[2-World/Regions/Island of Screams\|Island of Screams]]**
