@@ -353,3 +353,37 @@ function setFrontmatter(file, fmfield, thing) {
 -%>
 ```
 
+
+
+> [!caption|left] Floats to the left
+> ![gremishka.jpg|250](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)
+> Caption text here
+
+> [!caption|right] Floats to the right
+> ![gremishka.jpg|250](/img/user/%D0%A4%D0%B0%D0%B9%D0%BB%D0%B8/gremishka.jpg)
+> Caption text here
+
+зображення по боках тексту
+
+
+
+> [!cards]
+> **[[Link\|Link]]**
+> ![Image link|sban htiny ctr](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200)
+> 
+> **[[Link\|Link]]**
+> ![[Image Link.png\|sban htiny ctr]]
+
+> [!cards|4]
+> **[[Link\|Link]]**
+> ![Image link|sban htiny ctr](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200)
+> 
+> **[[Link\|Link]]**
+> ![[Image Link.png\|sban htiny ctr]]
+> 
+> **[[Link\|Link]]**
+> ![Image link|sban htiny ctr](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200)
+> 
+> **[[Link\|Link]]**
+> ![[Image Link.png\|sban htiny ctr]]
+
