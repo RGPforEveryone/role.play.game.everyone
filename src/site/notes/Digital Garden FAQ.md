@@ -6,6 +6,8 @@
 Вбудований файл пдф:
 <iframe src="https://drive.google.com/file/d/1PacJp3YdhrNR9wzc5ylpH6nkcmLvHjVM/preview" width="100%" height="480" allow="autoplay" aspect-ratio="4 / 4" overflow="hidden" position="absolute" scrolling="no"> </iframe>
 
+Вбудоване відео з ютуба
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AwRSTH72MYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > [!cards|4]
