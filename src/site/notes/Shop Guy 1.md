@@ -53,7 +53,7 @@
 
 # General
 
-Name: Shop Guy 1
+Name: `= this.file.name`
 
 Status: `INPUT[inlineSelect(option(Alive), option(Dead)):char_status]`
 
@@ -81,7 +81,7 @@ Make notes of what you need to track in the town here.
 
 # Inventory
 
-The following items belong to Shop Guy 1.
+The following items belong to `= this.file.name`.
 
 <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Random Item</span><span class="dataview small-text">0</span></th><th class="table-view-th"><span>cost</span></th><th class="table-view-th"><span>weight</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
 
