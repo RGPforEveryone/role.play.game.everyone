@@ -99,17 +99,7 @@ This is the town description.
 
 `BUTTON[button_person]` List important NPCs here. 
 
-<pre class="dataview dataview-error">Evaluation Error: TypeError: Cannot read properties of undefined (reading 'file')
-    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:2:29)
-    at DataviewInlineApi.eval (plugin:dataview:19027:16)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
-    at Generator.next (&lt;anonymous&gt;)</pre>
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Name</span><span class="dataview small-text">0</span></th><th class="table-view-th"><span>Race</span></th><th class="table-view-th"><span>Gender</span></th><th class="table-view-th"><span>Associated Group</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
 
 # GM Notes
 
