@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/inrium-template/","pinned":["true"]}
+{"dg-publish":true,"permalink":"/templates/inrium-template/","hide":true,"hideInGraph":true}
 ---
 
 > [!statblocks]

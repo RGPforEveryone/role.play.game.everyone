@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/avtor-template/"}
+{"dg-publish":true,"permalink":"/templates/avtor-template/","hide":true,"hideInGraph":true}
 ---
 
 Джерело:  [Пост Tg-канал](https://t.me/gmAndyLit/7)
