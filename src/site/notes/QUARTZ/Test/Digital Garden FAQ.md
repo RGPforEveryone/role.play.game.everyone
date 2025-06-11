@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sistemna-papka/digital-garden-faq/","hide":true,"hideInGraph":true}
+{"dg-publish":true,"permalink":"/quartz/test/digital-garden-faq/","hide":true,"hideInGraph":true}
 ---
 
 
@@ -160,6 +160,7 @@ dv.paragraph(
 
 Звичайно, це все ще трохи складно, і вам потрібно налаштовувати це для кожного шаблону, який ви хочете використовувати, але поки що це працює для опції переходу за посиланням.  
 Сподіваюся, це трохи допомогло.
+
 ![gremishka.jpg|left|250](/img/user/_Files/gremishka.jpg)
 
 Пояснення
@@ -169,6 +170,7 @@ dv.paragraph(
 
 Звичайно, це все ще трохи складно, і вам потрібно налаштовувати це для кожного шаблону, який ви хочете використовувати, але поки що це працює для опції переходу за посиланням.  
 Сподіваюся, це трохи допомогло.
+
 ![gremishka.jpg|centre|400](/img/user/_Files/gremishka.jpg)
 
 Пояснення
@@ -178,6 +180,7 @@ dv.paragraph(
 
 Звичайно, це все ще трохи складно, і вам потрібно налаштовувати це для кожного шаблону, який ви хочете використовувати, але поки що це працює для опції переходу за посиланням.  
 Сподіваюся, це трохи допомогло.
+
 ![gremishka.jpg|right|500](/img/user/_Files/gremishka.jpg)
 
 Пояснення
@@ -218,29 +221,6 @@ image: https://obsidian.md/images/banner.png
 гітхаб (https://github.com/aizatto/gitbook-public?tab=readme-ov-file)
 ![Pasted image 20250531131429.png](/img/user/__TTRPG%20Vault/z_Assets/Pasted%20image%2020250531131429.png)
 ![Pasted image 20250531131459.png](/img/user/__TTRPG%20Vault/z_Assets/Pasted%20image%2020250531131459.png)
-
-# Налаштування Quartz
-MCL Багатоколонковий CSS(https://github.com/efemkay/obsidian-modular-css-layout/blob/main/MCL%20Multi%20Column.css)
-morrowind для кварцу(https://github.com/morrowind-modding/morrowind-modding.github.io/tree/main/quartz/styles/custom)
-morrowind для обсидіану(https://github.com/morrowind-modding/morrowind-modding.github.io/tree/main/mmw-content/.obsidian/snippets)
-custom-formatting-features(https://github.com/morrowind-modding/morrowind-modding.github.io/blob/main/mmw-content/contributing/custom-formatting-features.md?plain=1)
-приклад використання Adalbars-Homebrew(https://adalbars-homebrew.vercel.app/Races/Urseinen/Urseinen)
-Adalbars-Homebrew github(https://github.com/Adalbar3333/Adalbars-Homebrew)
-
-**[quartz-themes](https://github.com/saberzero1/quartz-themes)**
-[кварцовий синхронізатор](https://github.com/saberzero1/quartz-syncer)
-[кварцовий синхронізатор doc](https://saberzero1.github.io/quartz-syncer-docs/)
-
-[quartz розвиток проекту](https://www.emilebangma.com/Quartz/)
-
-[Блакитна книга, приклад саду](https://lyz-code.github.io/blue-book/activism/)
-[ Quartz and Wiki Website Examples](https://morrowind-modding.github.io/contributing/quartz-and-wiki-website-examples)
-
-Мої матеріали для робочого процесу з кварцу та обсидіану(https://sjgknight.com/finding-knowledge/2024-05-my-quartz-obsidian-workflow)
-
-
-
-
 
 # Розсилка (підписка), перемикач тем
 [Як вбудувати розсилку (підписку) на сайт](https://www.emhabayu.com/notes/how-to-embed-newsletter-on-obsidian/)
@@ -320,18 +300,8 @@ Adalbars-Homebrew github(https://github.com/Adalbar3333/Adalbars-Homebrew)
 Цей шаблон виглядає так:
 
 ```typescript
-<%* let filetype = await tp.system.suggester(["Book Note", "Kanban Project", "Project Note", "Standard"], ["Book Note", "Kanban Project", "Project Note", "Standard"], false, "Which template do you want to use?") %>
-<%-* if (filetype === "Book Note") { %> 
-<% tp.file.include("[[Book Note Template]]") %> <% tp.file.move("/030 Media/031 Books/" + tp.file.title) %>
-<%-* } else if (filetype === "Kanban Project") { %>
-<% tp.file.include("[[Project Kanban]]") %> 
-<%-* } else if (filetype === "Project Note") { %>
-<% tp.file.include("[[Project Note Template]]") %>
-<%-* } else if (filetype === "Standard") { %>
-<% tp.file.include("[[New File Template]]") %>
-<%-* } else { %>
+
 <% tp.file.cursor(1) %>
-<%* } -%>
 ```
 
 Пояснення
@@ -403,24 +373,6 @@ src="/_next/image?url=%2Fplugins-list.jpg%3Fheight%3D300%26width%3D400&amp;w=828
 
 Ось кращий шаблон, який вимагає лише перегляду даних, без потреби в metaedit (використовуючи функцію, яка може бути використана для встановлення будь-якого значення будь-якого поля фронтматера)
 ```
-<%*
-let tag = await tp.system.prompt("Enter tag (without #)")
-var files = DataviewAPI.pages("#"+tag).file.map(file => tp.file.find_tfile(file.path));
-let count = 0;
-for (let file of files) {
-	await setFrontmatter(file, "dg-publish", true);
-	count++;
-}
-console.log("Parsed "+count+" files.");
-
-function setFrontmatter(file, fmfield, thing) {
-	try {
-		this.app.fileManager.processFrontMatter(file, fm => fm[fmfield] = thing);
-	} catch (error) {
-		console.log(`Error adding frontmatter ${thing} to ${fmfield}.`)
-	}
-}
--%>
 ```
 
 

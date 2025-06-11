@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/roadmap/"}
+{"dg-publish":true,"permalink":"/quartz/roadmap/"}
 ---
 
 # Стадії проекту
